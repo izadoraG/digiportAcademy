@@ -1,0 +1,11 @@
+package main
+
+import "fmt"
+
+func main() {
+
+	var contador = 10
+
+	while i:=10 i>0 i--
+	fmt.Println("Contagem regressiva: ", contador)
+}
